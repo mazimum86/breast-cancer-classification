@@ -33,7 +33,7 @@
 <p>To use the code in this repository, follow the steps below:</p>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/yourusername/breast-cancer-classification.git</code></pre>
+    <pre><code>git clone https://github.com/mazimum86/breast-cancer-classification.git</code></pre>
   </li>
   <li>Navigate to the repository directory:
     <pre><code>cd breast-cancer-classification</code></pre>
